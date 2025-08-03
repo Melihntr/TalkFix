@@ -1,7 +1,7 @@
 import cohere
 
 # Initialize Cohere Client with your API key
-co = cohere.Client('hA3uR4xVJtQC95Mc8gxXCOr0ubywWMmBxs8NQSSF')
+co = cohere.Client('')
 
 
 # Function to get transformed text
